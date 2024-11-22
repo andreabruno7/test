@@ -13,5 +13,7 @@ public class mainClass {
     public static void main(String[] args){
         System.out.println("Ciao ");
         System.out.println("Claudiaaaa");
+        System.out.println("Salvatore");
+        System.out.println("Finnie");
     }
 }
