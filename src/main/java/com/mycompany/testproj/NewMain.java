@@ -18,6 +18,7 @@ public class NewMain {
         
         System.out.println("Finniacchione");
         // TODO code application logic here
+        System.out.println("Ciaooo");
     }
     
 }
